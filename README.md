@@ -20,3 +20,6 @@ done
 
 #### YouTube
 [a youtube video](https://www.youtube.com/watch?v=C8lj45IL5J4)
+
+#### ASCIINEMA
+[![asciicast](https://asciinema.org/a/ectekxbf5owgz5l0hordmxp37.png)](https://asciinema.org/a/ectekxbf5owgz5l0hordmxp37)
